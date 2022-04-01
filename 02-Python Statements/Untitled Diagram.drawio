@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T10:30:19.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="gNqxkzYo8pIaw2TpIlFP" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-01T10:55:29.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="yexuK3g3-grIyq8j2i5U" version="17.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1999" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -19,7 +19,12 @@
           <mxGeometry x="60" y="240" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ShkPflYWp6kA8HJvcTvm-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ShkPflYWp6kA8HJvcTvm-8" target="ShkPflYWp6kA8HJvcTvm-39">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="290" />
+              <mxPoint x="40" y="290" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ShkPflYWp6kA8HJvcTvm-8" value="IOT Team (Level 1)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="290" width="120" height="40" as="geometry" />
@@ -87,17 +92,17 @@
         <mxCell id="ShkPflYWp6kA8HJvcTvm-37" value="Raise Internal Ticket for Invoicing the Client Cat A,B,C and assign it to Level1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="285" width="206" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ShkPflYWp6kA8HJvcTvm-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ShkPflYWp6kA8HJvcTvm-39" target="ShkPflYWp6kA8HJvcTvm-54">
+        <mxCell id="ShkPflYWp6kA8HJvcTvm-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ShkPflYWp6kA8HJvcTvm-8" target="ShkPflYWp6kA8HJvcTvm-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ShkPflYWp6kA8HJvcTvm-39" value="Raise Internal Ticket for Invoicing the Client Cat A,B,C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-120" y="290" width="180" height="40" as="geometry" />
+          <mxGeometry x="-160" y="270" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ShkPflYWp6kA8HJvcTvm-49" value="Tarrif is made productive in Tomia System" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="520" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ShkPflYWp6kA8HJvcTvm-54" value="Collects all internal Tickets and send to Finance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-280" y="287.5" width="120" height="45" as="geometry" />
+          <mxGeometry x="-140" y="320" width="150" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
